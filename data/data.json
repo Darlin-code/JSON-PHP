@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 1,
+        "name": "Darlin",
+        "email": "darlin@gmail.com",
+        "password": "Darlin123"
+    },
+    {
+        "user_id": 2,
+        "name": "Pedro",
+        "email": "pedro@gmail.com",
+        "password": "pedro123"
+    },
+    {
+        "user_id": 3,
+        "name": "Luis",
+        "email": "luis@gmail.com",
+        "password": "luis123"
+    },
+    {
+        "user_id": 4,
+        "name": "Margarita",
+        "email": "marga@gmail.com",
+        "password": "marga_rita123"
+    }
+]
